@@ -1,8 +1,12 @@
 # **<span style="color:green">Maven & Nexus Integration</span>**
+In this setup, we are integrating Maven with Nexus to generate artifacts and upload them to our Nexus repository for efficient artifact management, versioning, and deployment.
+
 
 ### **<span style="color:green">Contact Information</span>**
 - **Phone:** +237 679638540
 - **Email:** [nditafonhysonn@gmail.com](mailto:nditafonhysonn@gmail.com)
+
+## **<span style="color:green">Integration Steps</span>**
 
 ## **<span style="color:green">1. Create a Maven Hosted Repository</span>**
 
