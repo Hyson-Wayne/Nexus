@@ -1,5 +1,19 @@
 # **<span style="color:green">Nexus Integration for Artifact Management</span>**
 
+---
+
+## **<span style="color:green">Contact Information</span>**
+
+For further assistance or inquiries, click the buttons below:
+
+- [![Name](https://img.shields.io/badge/Name-Nditafon%20Hyson%20Nuigho-brightgreen)](mailto:nditafonhysonn@gmail.com)
+- [![Phone](https://img.shields.io/badge/Phone-%2B235679638540-brightgreen)](tel:+235679638540)
+- [![Email](https://img.shields.io/badge/Email-nditafonhysonn%40gmail.com-blue)](mailto:nditafonhysonn@gmail.com)
+- [![GitHub](https://img.shields.io/badge/GitHub-Hyson--Wayne-lightgrey?logo=github)](https://github.com/Hyson-Wayne)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-nditafon--hyson-blue?logo=linkedin)](https://www.linkedin.com/in/nditafon-hyson-762a6623b/)
+
+---
+
 ## **<span style="color:green">What is Nexus?</span>**
 
 **Nexus** is a powerful repository manager used for storing, managing, and retrieving build artifacts and dependencies. It plays a vital role in software development by serving as a centralized platform that simplifies the management of binary components and releases.
