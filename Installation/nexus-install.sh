@@ -13,10 +13,10 @@ sudo yum install wget git nano unzip -y
 sudo yum install java-17-openjdk-devel -y
 
 # Step 3: Download and Extract Nexus
-sudo wget https://download.sonatype.com/nexus/3/nexus-3.74.0-05-unix.tar.gz
-sudo tar -zxvf nexus-3.74.0-05-unix.tar.gz
-sudo mv /opt/nexus-3.74.0-05 /opt/nexus
-sudo rm -rf nexus-3.74.0-05-unix.tar.gz
+sudo wget https://download.sonatype.com/nexus/3/nexus-3.75.1-01-unix.tar.gz
+sudo tar -zxvf nexus-3.75.1-01-unix.tar.gz
+sudo mv /opt/nexus-3.75.1-01 /opt/nexus
+sudo rm -rf nexus-3.75.1-01-unix.tar.gz
 
 # Step 4: Grant Permissions
 sudo chown -R nexus:nexus /opt/nexus
